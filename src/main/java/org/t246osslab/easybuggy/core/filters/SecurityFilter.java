@@ -19,7 +19,7 @@ import javax.servlet.http.HttpServletResponse;
 public class SecurityFilter implements Filter {
 	
     /**
-     * Prevent several security vulnerabilities.
+     * Prent several security vulnerabilities.
      *
      * @see Filter#doFilter(ServletRequest, ServletResponse, FilterChain)
      */
